@@ -222,6 +222,9 @@ async function actualizarDashboard() {
         crearGraficaMes(meses);
 
         llenarTabla(eventos);
+        if (typeof window.actualizarMapa === "function") {
+    window.actualizarMapa(eventos);
+}
 
 
         mensaje.textContent =

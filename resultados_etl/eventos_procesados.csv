@@ -1,0 +1,101 @@
+﻿id_usgs,fecha_utc,magnitud,profundidad_km,latitud,longitud,lugar,region,mes,clasificacion
+aka2026vpcige,2026-10-31 18:50:58.577,4.5,1.0,51.521,-172.815,"121 km SE of Atka, Alaska",Alaska,2026-10,Baja
+ci41572064,2026-11-03 18:27:31.190,4.89,15.59,32.430833,-115.179667,"9 km N of Delta, B.C., MX",MX,2026-11,Baja
+nc75462637,2026-11-05 04:56:02.670,4.96,10.0,40.407333,-125.585333,"111 km W of Petrolia, CA",CA,2026-11,Baja
+us7000tu3j,2026-10-29 20:14:32.548,5.0,15.6,53.5843,-163.0279,"143 km S of False Pass, Alaska",Alaska,2026-10,Media
+us7000tu3u,2026-10-29 20:32:11.667,5.0,10.0,-4.4698,132.4922,"131 km NNW of Tual, Indonesia",Indonesia,2026-10,Media
+us7000tu46,2026-10-29 21:00:15.784,4.7,5.0,51.5608,15.9523,"1 km SSE of Radwanice, Poland",Poland,2026-10,Baja
+us7000tu4a,2026-10-29 21:12:36.287,4.6,35.0,44.1091,148.1794,"121 km ENE of Shikotan, Russia",Russia,2026-10,Baja
+us7000tu4f,2026-10-29 21:46:44.786,6.2,142.83,-15.1891,167.4523,"43 km ESE of Port-Olry, Vanuatu",Vanuatu,2026-10,Alta
+us7000tu4z,2026-10-29 23:04:49.300,4.6,10.0,-18.1317,167.9345,"59 km SW of Port-Vila, Vanuatu",Vanuatu,2026-10,Baja
+us7000tu5q,2026-10-30 03:04:17.406,5.1,116.3,-5.8137,148.3151,"97 km NNE of Finschhafen, Papua New Guinea",Papua New Guinea,2026-10,Media
+us7000tu6f,2026-10-30 04:58:31.595,4.6,56.6,40.3108,142.3621,"51 km ENE of Noda, Japan",Japan,2026-10,Baja
+us7000tu6i,2026-10-30 05:10:19.806,4.8,371.79,-18.1766,-177.0471,Fiji region,Sin region especifica,2026-10,Baja
+us7000tu7b,2026-10-30 08:45:49.982,4.6,43.63,43.2605,146.4242,"64 km SSW of Shikotan, Russia",Russia,2026-10,Baja
+us7000tu7j,2026-10-30 10:12:28.219,5.1,10.0,-62.4457,155.2618,Balleny Islands region,Sin region especifica,2026-10,Media
+us7000tu7k,2026-10-30 10:24:11.303,4.5,10.0,8.3731,127.3616,"104 km ENE of Barcelona, Philippines",Philippines,2026-10,Baja
+us7000tu7m,2026-10-30 10:45:03.842,4.7,10.0,39.7308,24.2284,"42 km SE of Sykiá, Greece",Greece,2026-10,Baja
+us7000tu83,2026-10-30 13:18:19.151,4.5,42.82,40.4803,142.4748,"68 km ENE of Kuji, Japan",Japan,2026-10,Baja
+us7000tub8,2026-10-30 17:06:26.864,4.6,10.0,9.0593,126.2834,"7 km NE of Tago, Philippines",Philippines,2026-10,Baja
+us7000tudk,2026-10-30 18:01:10.672,4.5,10.0,65.0985,155.7595,"236 km ESE of Zyryanka, Russia",Russia,2026-10,Baja
+us7000tufc,2026-10-30 22:14:55.008,4.7,10.0,-13.8288,165.4282,"222 km NW of Port-Olry, Vanuatu",Vanuatu,2026-10,Baja
+us7000tufp,2026-10-30 22:46:57.982,4.6,194.81,-16.5439,-69.4844,"33 km NE of Mazo Cruz, Peru",Peru,2026-10,Baja
+us7000tugd,2026-10-31 00:26:35.699,4.8,10.0,-14.8091,167.9478,"97 km ENE of Port-Olry, Vanuatu",Vanuatu,2026-10,Baja
+us7000tugf,2026-10-31 00:32:46.687,4.5,10.0,33.5548,141.8118,"223 km SE of Katsuura, Japan",Japan,2026-10,Baja
+us7000tugs,2026-10-31 02:37:19.894,4.5,10.0,7.087,-34.6828,central Mid-Atlantic Ridge,Sin region especifica,2026-10,Baja
+us7000tugv,2026-10-31 03:14:13.580,4.6,10.0,30.9098,142.5186,"Izu Islands, Japan region",Japan region,2026-10,Baja
+us7000tuhs,2026-10-31 09:15:52.568,4.9,10.0,-13.7683,165.5833,"213 km W of Sola, Vanuatu",Vanuatu,2026-10,Baja
+us7000tuht,2026-10-31 09:18:32.051,4.9,10.0,-13.7894,165.2951,"236 km NW of Port-Olry, Vanuatu",Vanuatu,2026-10,Baja
+us7000tuif,2026-10-31 11:31:12.352,5.0,10.0,-13.9069,165.6759,"196 km NW of Port-Olry, Vanuatu",Vanuatu,2026-10,Media
+us7000tujf,2026-10-31 15:50:18.750,5.2,10.0,7.565,-80.291,"4 km E of La Miel, Panama",Panama,2026-10,Media
+us7000tuk4,2026-10-31 18:51:02.721,4.5,44.87,51.6994,-172.7931,"111 km ESE of Atka, Alaska",Alaska,2026-10,Baja
+us7000tukm,2026-10-31 21:20:39.173,5.0,10.0,28.114,51.5076,"115 km SE of Bushehr, Iran",Iran,2026-10,Media
+us7000tuku,2026-10-31 22:15:02.901,6.0,352.45,33.822,136.9854,"58 km SSE of Shima, Japan",Japan,2026-10,Alta
+us7000tuky,2026-10-31 22:42:39.540,5.2,10.0,-13.8729,165.6456,"200 km NW of Port-Olry, Vanuatu",Vanuatu,2026-10,Media
+us7000tule,2026-10-31 23:57:55.354,4.8,10.0,-13.8748,165.6627,"199 km NW of Port-Olry, Vanuatu",Vanuatu,2026-10,Baja
+us7000tuly,2026-11-01 01:24:52.448,4.5,120.44,-21.698,-68.435,"55 km SSW of Ollagüe, Chile",Chile,2026-11,Baja
+us7000tumn,2026-10-30 12:40:57.062,4.7,10.0,-14.2547,165.9597,"148 km NW of Port-Olry, Vanuatu",Vanuatu,2026-10,Baja
+us7000tumt,2026-10-31 13:56:59.106,4.5,10.0,-22.8,170.4074,"295 km ESE of Tadine, New Caledonia",New Caledonia,2026-10,Baja
+us7000tumy,2026-11-01 05:31:54.598,4.8,202.07,-23.6386,-66.6315,"71 km NNW of San Antonio de los Cobres, Argentina",Argentina,2026-11,Baja
+us7000tun8,2026-11-01 06:26:42.287,5.4,10.0,-13.8672,165.6167,"203 km NW of Port-Olry, Vanuatu",Vanuatu,2026-11,Media
+us7000tund,2026-11-01 07:00:54.331,5.1,10.0,-13.8611,165.6455,"201 km NW of Port-Olry, Vanuatu",Vanuatu,2026-11,Media
+us7000tung,2026-11-01 07:37:47.343,4.7,10.0,-13.9872,165.6642,"191 km NW of Port-Olry, Vanuatu",Vanuatu,2026-11,Baja
+us7000tunq,2026-11-01 08:20:07.549,4.8,118.8,24.8805,122.0621,"33 km SE of Jiufen, Taiwan",Taiwan,2026-11,Baja
+us7000tupl,2026-11-01 11:47:03.778,6.0,10.0,-14.1689,165.8242,"165 km NW of Port-Olry, Vanuatu",Vanuatu,2026-11,Alta
+us7000tupp,2026-11-01 11:56:51.778,4.8,10.0,-14.0776,165.767,"176 km NW of Port-Olry, Vanuatu",Vanuatu,2026-11,Baja
+us7000tupq,2026-11-01 12:08:30.561,4.8,10.0,-13.8667,165.6199,"203 km NW of Port-Olry, Vanuatu",Vanuatu,2026-11,Baja
+us7000tuqi,2026-11-01 17:01:18.126,4.7,18.48,23.8055,123.2705,"78 km SSE of Yonakuni, Japan",Japan,2026-11,Baja
+us7000tuqk,2026-11-01 17:11:56.053,5.1,108.23,-56.2566,-27.1985,South Sandwich Islands region,Sin region especifica,2026-11,Media
+us7000tuqv,2026-11-01 18:30:23.197,4.6,10.0,-23.9496,69.5065,Mid-Indian Ridge,Sin region especifica,2026-11,Baja
+us7000tuqx,2026-11-01 18:34:39.200,5.0,10.0,-23.8735,69.5217,Mid-Indian Ridge,Sin region especifica,2026-11,Media
+us7000tuqy,2026-11-01 18:42:57.023,4.6,38.49,19.7626,121.328,"101 km SW of Basco, Philippines",Philippines,2026-11,Baja
+us7000tur0,2026-11-01 18:53:57.590,4.8,10.0,-35.441,78.4169,Mid-Indian Ridge,Sin region especifica,2026-11,Baja
+us7000turj,2026-11-01 21:26:57.524,4.7,150.95,-27.291,-177.8708,Kermadec Islands region,Sin region especifica,2026-11,Baja
+us7000turv,2026-11-01 22:22:43.980,4.6,10.0,-35.4346,78.3627,Mid-Indian Ridge,Sin region especifica,2026-11,Baja
+us7000tus5,2026-11-01 23:18:05.811,4.5,243.6,-22.5661,-66.523,"86 km WNW of Abra Pampa, Argentina",Argentina,2026-11,Baja
+us7000tusv,2026-11-02 00:53:10.555,5.1,93.55,-6.9205,129.9514,Banda Sea,Sin region especifica,2026-11,Media
+us7000tut4,2026-11-02 01:18:16.369,5.1,10.0,-31.2244,-177.7236,Kermadec Islands region,Sin region especifica,2026-11,Media
+us7000tuta,2026-11-02 01:54:55.186,4.5,510.07,30.8406,135.1987,"288 km SSE of Muroto-misakicho, Japan",Japan,2026-11,Baja
+us7000tute,2026-11-02 02:24:03.097,4.5,10.0,-2.9446,146.4573,"135 km SW of Lorengau, Papua New Guinea",Papua New Guinea,2026-11,Baja
+us7000tutf,2026-11-02 02:23:08.566,4.5,55.09,24.322,122.1775,"64 km SE of Yilan, Taiwan",Taiwan,2026-11,Baja
+us7000tuts,2026-11-02 02:43:47.892,4.7,10.0,-35.9577,78.0792,Mid-Indian Ridge,Sin region especifica,2026-11,Baja
+us7000tutv,2026-11-02 04:45:48.110,4.6,10.0,46.6019,149.5786,"201 km NE of Kuril’sk, Russia",Russia,2026-11,Baja
+us7000tuu0,2026-11-02 05:19:50.104,4.9,87.89,-5.5626,154.088,"175 km WNW of Panguna, Papua New Guinea",Papua New Guinea,2026-11,Baja
+us7000tuuy,2026-11-02 08:13:14.014,5.1,196.65,1.392,124.6476,"19 km WNW of Tomohon, Indonesia",Indonesia,2026-11,Media
+us7000tuv5,2026-11-02 08:42:47.228,4.7,35.0,19.8007,121.1252,"113 km SW of Basco, Philippines",Philippines,2026-11,Baja
+us7000tuv8,2026-11-02 08:59:22.968,4.7,40.17,34.3232,26.528,"100 km SSE of Palekastro, Greece",Greece,2026-11,Baja
+us7000tuwv,2026-11-02 14:05:23.380,4.7,502.36,-25.6182,179.6708,south of the Fiji Islands,Sin region especifica,2026-11,Baja
+us7000tuxg,2026-11-02 15:28:13.954,5.1,67.24,-10.1699,-78.5994,"50 km WSW of Huarmey, Peru",Peru,2026-11,Media
+us7000tuxi,2026-11-02 15:35:12.369,4.7,10.0,32.3376,93.831,"193 km ENE of Nagqu, China",China,2026-11,Baja
+us7000tuxy,2026-11-02 16:49:17.895,5.3,48.52,34.4807,26.4694,"81 km SSE of Palekastro, Greece",Greece,2026-11,Media
+us7000tuyi,2026-11-02 18:33:10.139,4.5,10.0,32.4467,93.9955,"212 km ENE of Nagqu, China",China,2026-11,Baja
+us7000tuzd,2026-11-02 19:59:04.529,4.5,10.0,13.795,146.6114,"168 km SE of San Jose Village, Northern Mariana Islands",Northern Mariana Islands,2026-11,Baja
+us7000tuzz,2026-11-02 20:54:53.714,4.5,10.0,32.2855,93.7833,"186 km ENE of Nagqu, China",China,2026-11,Baja
+us7000tv03,2026-11-02 20:54:25.928,4.6,10.0,-13.8072,165.3938,"226 km NW of Port-Olry, Vanuatu",Vanuatu,2026-11,Baja
+us7000tv2p,2026-11-03 03:13:12.330,4.7,75.58,53.0409,159.7384,"74 km E of Petropavlovsk-Kamchatsky, Russia",Russia,2026-11,Baja
+us7000tv3l,2026-11-03 05:23:44.068,4.5,116.35,23.6023,94.7089,"31 km E of Mawlaik, Burma (Myanmar)",Burma (Myanmar),2026-11,Baja
+us7000tv3q,2026-11-03 05:40:18.064,4.8,52.27,35.6591,140.648,"6 km S of Asahi, Japan",Japan,2026-11,Baja
+us7000tv4c,2026-11-03 07:43:53.115,4.5,67.39,-6.1411,147.5576,"56 km NW of Finschhafen, Papua New Guinea",Papua New Guinea,2026-11,Baja
+us7000tv4i,2026-11-03 09:13:14.972,5.4,10.0,3.7386,-75.7198,"24 km NNW of Rioblanco, Colombia",Colombia,2026-11,Media
+us7000tv51,2026-11-03 11:03:47.340,4.9,45.66,34.3254,26.5713,"101 km SSE of Palekastro, Greece",Greece,2026-11,Baja
+us7000tv5i,2026-11-03 13:34:04.565,5.0,133.11,-58.7979,-26.2903,South Sandwich Islands region,Sin region especifica,2026-11,Media
+us7000tva7,2026-11-03 15:37:51.082,4.8,136.69,-0.2295,123.1532,"85 km S of Gorontalo, Indonesia",Indonesia,2026-11,Baja
+us7000tvie,2026-11-03 16:48:12.006,5.2,129.17,24.1773,141.6688,"Volcano Islands, Japan region",Japan region,2026-11,Media
+us7000tvs3,2026-11-03 18:21:13.036,5.2,10.0,-35.5195,78.3027,Mid-Indian Ridge,Sin region especifica,2026-11,Media
+us7000tvtj,2026-11-03 21:34:08.654,5.2,10.0,39.3619,73.3023,"91 km ESE of Kyzyl-Eshme, Kyrgyzstan",Kyrgyzstan,2026-11,Media
+us7000tvu9,2026-11-03 22:50:33.435,4.5,10.0,39.294,73.3725,"99 km ESE of Kyzyl-Eshme, Kyrgyzstan",Kyrgyzstan,2026-11,Baja
+us7000tvuv,2026-11-04 00:32:59.774,4.6,556.46,-19.2691,-177.5052,Fiji region,Sin region especifica,2026-11,Baja
+us7000tvwj,2026-11-04 07:40:12.288,5.0,49.07,4.3895,127.0325,"207 km ESE of Sarangani, Philippines",Philippines,2026-11,Media
+us7000tw3k,2026-11-04 19:55:26.313,4.5,159.02,12.6311,-87.1544,"2 km W of Chinandega, Nicaragua",Nicaragua,2026-11,Baja
+us7000tw3n,2026-11-04 20:06:06.968,4.5,10.0,-1.4064,88.0827,South Indian Ocean,Sin region especifica,2026-11,Baja
+us7000tw43,2026-11-04 21:24:24.646,4.6,502.29,-25.2286,179.8797,south of the Fiji Islands,Sin region especifica,2026-11,Baja
+us7000tw76,2026-11-05 09:22:32.714,5.1,10.0,-3.4641,32.149,"19 km NNW of Masumbwe, Tanzania",Tanzania,2026-11,Media
+us7000tw7b,2026-11-05 10:09:33.723,4.8,554.42,49.2594,147.7534,Sea of Okhotsk,Sin region especifica,2026-11,Baja
+us7000tw8p,2026-11-05 16:56:25.875,5.0,76.94,35.6318,77.9399,"130 km NE of Thang, India",India,2026-11,Media
+us7000tw8r,2026-11-05 17:21:45.305,6.1,535.0,-21.1984,-178.7145,Fiji region,Sin region especifica,2026-11,Alta
+us7000twaq,2026-11-05 18:05:43.367,4.6,87.44,37.9934,141.2636,"36 km E of Watari, Japan",Japan,2026-11,Baja
+us7000twcy,2026-11-05 22:34:48.173,4.6,523.45,-23.5322,179.9392,south of the Fiji Islands,Sin region especifica,2026-11,Baja
+us7000twd4,2026-11-05 23:04:57.395,4.6,16.13,53.5527,-162.9503,"147 km SSE of False Pass, Alaska",Alaska,2026-11,Baja
+us7000twdd,2026-11-06 00:02:25.016,4.6,97.8,-5.9168,146.6624,"96 km NNW of Lae, Papua New Guinea",Papua New Guinea,2026-11,Baja
+us7000tweb,2026-11-06 01:37:39.847,4.6,83.27,-19.3647,168.7529,"58 km WNW of Isangel, Vanuatu",Vanuatu,2026-11,Baja
+us7000tweq,2026-11-06 02:35:25.631,4.7,27.96,53.6347,-162.9502,"139 km SSE of False Pass, Alaska",Alaska,2026-11,Baja

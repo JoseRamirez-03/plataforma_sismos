@@ -1,0 +1,29 @@
+﻿region,total_sismos,magnitud_promedio,magnitud_maxima
+Alaska,5,4.66,5.0
+Argentina,2,4.65,4.8
+Burma (Myanmar),1,4.5,4.5
+CA,1,4.96,4.96
+Chile,1,4.5,4.5
+China,3,4.566666666666666,4.7
+Colombia,1,5.4,5.4
+Greece,4,4.9,5.3
+India,1,5.0,5.0
+Indonesia,3,4.966666666666666,5.1
+Iran,1,5.0,5.0
+Japan,8,4.775,6.0
+Japan region,2,4.9,5.2
+Kyrgyzstan,2,4.85,5.2
+MX,1,4.89,4.89
+New Caledonia,1,4.5,4.5
+Nicaragua,1,4.5,4.5
+Northern Mariana Islands,1,4.5,4.5
+Panama,1,5.2,5.2
+Papua New Guinea,5,4.720000000000001,5.1
+Peru,2,4.85,5.1
+Philippines,5,4.68,5.0
+Poland,1,4.7,4.7
+Russia,5,4.6,4.7
+Sin region especifica,21,4.866666666666667,6.1
+Taiwan,2,4.65,4.8
+Tanzania,1,5.1,5.1
+Vanuatu,18,4.988888888888889,6.2
