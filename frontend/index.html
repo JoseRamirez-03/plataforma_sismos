@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Observatorio de Eventos Sismicos</title>
+
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="stylesheet"
+          href="https://atlas.microsoft.com/sdk/javascript/mapcontrol/3/atlas.min.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+
+    <script src="https://atlas.microsoft.com/sdk/javascript/mapcontrol/3/atlas.min.js"></script>
+
+    <script src="config.js"></script>
+
+    <script src="app.js" defer></script>
+
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Observatorio de Eventos Sismicos</h1>
+
+        <p>
+            Plataforma de monitoreo, consulta y analisis
+            de terremotos registrados en el mundo.
+        </p>
+
+        <small>
+            Fuente de informacion: USGS
+        </small>
+
+    </header>
+
+
+    <main>
+
+        <section class="panel">
+
+            <h2>Filtros de busqueda</h2>
+
+            <form id="filtros">
+
+                <label>
+                    Region
+
+                    <select id="region" name="region">
+
+                        <option value="">
+                            Todas las regiones
+                        </option>
+
+                    </select>
+                </label>
+
+
+                <label>
+                    Fecha inicial
+
+                    <input
+                        type="date"
+                        id="desde"
+                        name="desde">
+                </label>
+
+
+                <label>
+                    Fecha final
+
+                    <input
+                        type="date"
+                        id="hasta"
+                        name="hasta">
+                </label>
+
+
+                <label>
+                    Magnitud minima
+
+                    <input
+                        type="number"
+                        id="min_mag"
+                        name="min_mag"
+                        min="-2"
+                        max="10"
+                        step="0.1"
+                        placeholder="Ejemplo: 4.5">
+                </label>
+
+
+                <button type="submit">
+                    Consultar
+                </button>
+
+                <button type="button" id="limpiar">
+                    Limpiar filtros
+                </button>
+
+            </form>
+
+        </section>
+
+
+        <p id="mensaje">
+            Cargando informacion...
+        </p>
+
+
+        <section class="kpis">
+
+            <article>
+
+                <h3>Total de sismos</h3>
+
+                <strong id="total">0</strong>
+
+            </article>
+
+
+            <article>
+
+                <h3>Magnitud promedio</h3>
+
+                <strong id="promedio">0.00</strong>
+
+            </article>
+
+
+            <article>
+
+                <h3>Magnitud maxima</h3>
+
+                <strong id="maxima">0.00</strong>
+
+            </article>
+
+        </section>
+
+
+        <section class="graficas">
+
+            <article class="panel">
+
+                <h2>Sismos por region</h2>
+
+                <div class="grafica">
+
+                    <canvas id="graficaRegion"></canvas>
+
+                </div>
+
+            </article>
+
+
+            <article class="panel">
+
+                <h2>Sismos por mes</h2>
+
+                <div class="grafica">
+
+                    <canvas id="graficaMes"></canvas>
+
+                </div>
+
+            </article>
+
+        </section>
+
+
+        <section class="panel">
+
+            <h2>Mapa de epicentros</h2>
+
+            <p id="mapaMensaje">
+                El mapa interactivo se habilitara
+                mediante Azure Maps.
+            </p>
+
+            <div id="mapa"></div>
+
+            <p id="mapaDetalle"></p>
+
+        </section>
+
+
+        <section class="panel">
+
+            <h2>Eventos sismicos registrados</h2>
+
+            <p>
+                Consulta los terremotos almacenados
+                en nuestra base de datos Azure SQL.
+            </p>
+
+            <p>
+                Se muestran hasta 500 eventos por consulta.
+            </p>
+
+            <div class="tabla-contenedor">
+
+                <table>
+
+                    <thead>
+
+                        <tr>
+                            <th>Fecha UTC</th>
+                            <th>Magnitud</th>
+                            <th>Profundidad (km)</th>
+                            <th>Region</th>
+                            <th>Lugar</th>
+                        </tr>
+
+                    </thead>
+
+                    <tbody id="tablaEventos">
+
+                    </tbody>
+
+                </table>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <p>
+            Observatorio de Eventos Sismicos
+        </p>
+
+        <p>
+            Proyecto de Programacion de Base de Datos
+        </p>
+
+        <p>
+            Tecnologico de Estudios Superiores de Ecatepec
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
